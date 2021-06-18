@@ -5380,11 +5380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
+      "projectUniqueName": "D:\\github\\LC_DistributedLockByRedis\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
       "projectName": "Zhaoxi.LockService",
-      "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
+      "projectPath": "D:\\github\\LC_DistributedLockByRedis\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
       "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-      "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Zhaoxi.LockService\\obj\\",
+      "outputPath": "D:\\github\\LC_DistributedLockByRedis\\Zhaoxi.LockService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5401,8 +5401,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj": {
-              "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj"
+            "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj": {
+              "projectPath": "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj"
             }
           }
         }

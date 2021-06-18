@@ -17,11 +17,10 @@ namespace Zhaoxi.LockService
 		//docker run -d  -p 6379:6379 --name myredis redis 
 		//docker run -d  -p 6380:6379  --name myredis1 redis 
 		//docker run -d  -p 6381:6379  --name myredis2  redis 
-		//docker run -d  -p 6382:6379  --name myredis3 redis 
 		public static void Show(int i, string key, TimeSpan timeout)
 		{
 			//redis集群
-			var dlm = new Redlock.CSharp.Redlock(ConnectionMultiplexer.Connect("192.168.1.211:6380"), ConnectionMultiplexer.Connect("192.168.1.211:6381"), ConnectionMultiplexer.Connect("192.168.1.211:6382"));
+			var dlm = new Redlock.CSharp.Redlock(ConnectionMultiplexer.Connect("192.168.1.211:6379"), ConnectionMultiplexer.Connect("192.168.1.211:6380"), ConnectionMultiplexer.Connect("192.168.1.211:6381"));
 			Lock lockObject;
 			// true拿到锁,false拿不到、阻塞锁（内部还是补偿重试）
 			var isLocked = dlm.Lock(key, timeout, out lockObject);

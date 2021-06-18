@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj": {}
+    "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj": {
+    "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj",
+        "projectUniqueName": "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj",
         "projectName": "redlock-cs",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj",
+        "projectPath": "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\obj\\",
+        "outputPath": "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+M1GbdvlKw3ziEP0vNyGamzEQx1x1P4OKh/gheGBLz5QFHw1S7aGTktkklW7XJEt40hrtJYAqJiUFnd05ABtg==",
+  "dgSpecHash": "pVXHnaXjxIR9Mchwz/pdFyz3Qt+TkA42/EHSqtbudnNvqjZbNUg38ZaAnJfl2NDJYHoJn83pQ0r3uWketB7b2Q==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedLockByRedis\\Zhaoxi.LockService\\Zhaoxi.LockService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DaIx4LSs+cb9opOlI33hI9o0nvgd3lEZAGVRHx3IDJfiz1pv6XhVJIvz5+hzwKg01hG3kfYKpeXL4/R+9uOi9A==",
+  "dgSpecHash": "KYySlMilGJG/YoZ0jfPAM2+eVNeRspAcde2tC4Fp0JUK282ZNACGgQFzzSfH6j3/rEIcM1Q/LqVjjdASQf2yfA==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.LockService\\Redlock-cs\\redlock-cs.csproj",
+  "projectFilePath": "D:\\github\\LC_DistributedLockByRedis\\Redlock-cs\\redlock-cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
